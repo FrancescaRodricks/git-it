@@ -1,1 +1,2 @@
-console.log('Changes have been commited!')
+console.log('Username added to Git config!\nYou\'re on GitHub!\nUsername same on GitHub and\n')
+
